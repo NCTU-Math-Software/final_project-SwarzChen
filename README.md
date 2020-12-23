@@ -3,7 +3,7 @@
 
 ## Game Rule:
 This is a ***1vs1*** shooting game, player can shoot with bullets or place landmines.  
-The player who ***get shot*** or ***step on the other player's landmines*** will lose.  
+The player who ***gets shot*** or ***steps on the other player's landmines*** will lose.  
 Each player has ***3 landmines*** to place, and can shoot ***at most 3 bullets simultaneously***(In screen).  
 
 ## Player 1  
