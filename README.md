@@ -1,4 +1,4 @@
-# final_project-ManOWar-SwarzChen
+# ManOWar-SwarzChen
 ***~This is a shooting game originally developed by me, enjoy it !***
 
 ## Game Rule:
