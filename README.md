@@ -10,8 +10,9 @@
 超過限制會顯示 ***out of charge*** 在 terminal 中  
 (一次射太多發太op了)  
 
-每完玩家只有三枚地雷 不會重新裝彈  
+每完玩家只有***三枚地雷*** 不會重新裝彈  
 放完就沒有了  
+超過限制會顯示 ***out of charge*** 在 terminal 中  
 
 
 ## Player 1  
